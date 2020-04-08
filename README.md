@@ -10,6 +10,18 @@ An [Express server](http://expressjs.com) implementation
 ## How to run
 
 ```
-npm install
+npm i
+```
+or
+```
+yarn
+```
+
+```
 npm start
 ```
+or
+```
+yarn start
+```
+***default port 3000***
