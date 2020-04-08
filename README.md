@@ -1,4 +1,4 @@
-# Accepting a card payment
+# Stripe online payment
 
 An [Express server](http://expressjs.com) implementation
 
