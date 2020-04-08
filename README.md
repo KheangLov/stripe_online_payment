@@ -12,15 +12,15 @@ An [Express server](http://expressjs.com) implementation
 ```
 npm i
 ```
-or
+ or
 ```
 yarn
 ```
-<br/>
+
 ```
 npm start
 ```
-or
+ or
 ```
 yarn start
 ```
