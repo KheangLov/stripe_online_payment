@@ -16,8 +16,7 @@ or
 ```
 yarn
 ```
-
-
+<br/>
 ```
 npm start
 ```
