@@ -11,11 +11,11 @@ An [Express server](http://expressjs.com) implementation
 ### `npm i` or `yarn`
  *******                                   
 ### `npm start` or `yarn start`
-```
-***default port 3000***
+
+*** default port 3000 ***
 
 <!-- prettier-ignore -->
-| Test card number     | Webhook |
+| Test card number     | Webhooks |
 :--- | :--- 
 **4242424242424242** | Succeeds  |
 **4000000000003220** | Displays a pop-up modal to authenticate  |
